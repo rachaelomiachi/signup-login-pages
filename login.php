@@ -51,12 +51,12 @@
             <div class="container mt-5">
             <form action="site.php" method="POST">
         <div class="mb-3">
-            <label for="user_name" >Username</label>
+            <label for="user_name" > Enter Username</label>
             <input type="text" class="form-control" name="user_name" id="user_name"  >
         </div>
 
         <div class="mb-3">
-            <label for="password" >Password</label>
+            <label for="password" >Enter Password</label>
             <input type="password" class="form-control" name="user_password" id="user_password" >
         </div>
 
