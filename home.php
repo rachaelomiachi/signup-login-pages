@@ -34,6 +34,7 @@ if(!isset($_SESSION['user_name'])){
     <h1 class="text-center text-warning mt-3 bg-dark" >Welcome Dear
     <?php echo $_SESSION['user_name'];?>
     </h1>
+    <!-- carousel starts here -->
     <center>
     <h1 class="text-center text-warning mt-1 bg-dark" >you are welcome to Rea's Bridals</h1>
     <div class="carousel">
@@ -63,7 +64,7 @@ if(!isset($_SESSION['user_name'])){
 
     <div class="container w-90px bg-dark">
         <a href="logout.php" class="btn btn-warning
-        mt-5">Logout</a>
+        mt-5"> Click Here To Logout</a>
     </div>
 
 
