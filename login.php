@@ -51,7 +51,7 @@
             <div class="container mt-5">
             <form action="site.php" method="POST">
         <div class="mb-3">
-            <label for="user_name" > Enter Username</label>
+            <label for="user_name" > Enter Usernname</label>
             <input type="text" class="form-control" name="user_name" id="user_name"  >
         </div>
 
